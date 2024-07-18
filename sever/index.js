@@ -16,7 +16,7 @@ const Admin = require('./model/admin')
 
 // initialize
 const app = express()
-
+///////selvakumar
 // middelware
 app.use(cors())
 app.use(bparser.json())
